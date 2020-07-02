@@ -42,4 +42,3 @@ Har du idéer på förbättringar eller fler utmaningar? Kontakta mig gärna ell
 ## Contributors
 
 [mlvestlund](https://github.com/mlvestlund)
-
