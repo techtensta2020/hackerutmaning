@@ -1,6 +1,6 @@
 # Hackerutmaning - TechTensta Hacker 2020
 
-Kan du lösa [utmaningen](https://rickardlofberg.github.io/hackerutmaning/index.html)?
+Kan du lösa [utmaningen](https://techtensta2020.github.io/hackerutmaning/index.html)?
 
 ## Beskrivning
 
